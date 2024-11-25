@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"Math/rand"
+	"math/rand"
 )
 
 // Hello returns a greeting for the named person.
